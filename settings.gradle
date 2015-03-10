@@ -1,5 +1,4 @@
 rootProject.name = 'copy-resource-example'
 
 include 'ui'
-include 'repo'
 include 'shared'
